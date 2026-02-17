@@ -1,6 +1,7 @@
 # Bartender
 
 The go to app for all of your bartending, barkeeping, and mixologist needs.
+
 Live Demo: https://bar-tender-app.vercel.app
 
 <img width="1428" height="1040" alt="Bartender Homescreen" src="https://github.com/user-attachments/assets/9be7b478-6626-47b6-8c35-4c9af440e24d" />
